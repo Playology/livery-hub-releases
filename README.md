@@ -3,8 +3,12 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 # Release History
 
+## v1.0.0-alpha.3 - 2023-05-06
 
-## v1.0.0-alpha.2 - 2-23-05-05
+### Added
+- Initial livery manager implementation
+
+## v1.0.0-alpha.2 - 2023-05-05
 
 ### Added
 - Button to copy token from clipboard
@@ -12,7 +16,7 @@ Livery Hub is web site and a desktop application working together to allow sim r
 ### Changed
 - Maximise window on startup
 
-## v1.0.0-alpha.1 - 2-23-05-05
+## v1.0.0-alpha.1 - 2023-05-05
 
 Initial alpha release
 

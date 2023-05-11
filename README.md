@@ -5,7 +5,7 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 ## v1.0.0-alpha.7 - 2023-05-11
 
-###
+### Added
 - Assign livery to upcoming event
 - Display assigned livery name on upcoming event tile
 

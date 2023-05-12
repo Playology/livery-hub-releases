@@ -3,6 +3,11 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 # Release History
 
+## v1.0.0-beta.2 - 2023-05-12
+
+### Fixed
+- Reduced height of Log Viewer to better fit on screen
+
 ## v1.0.0-beta.1 - 2023-05-12
 
 ### Added

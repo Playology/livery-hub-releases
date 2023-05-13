@@ -3,6 +3,16 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 # Release History
 
+## v1.0.0-beta.4 - 2023-05-13
+
+### Added
+- Cloud icon to rows in My Liveries to indicate whether the livery has been uploaded to My Livery Cloud
+
+### Changed
+- Livery upload now recognises whether the livery has already been uploaded and overwrites with any changes
+- Deleting a local livery automatically removes all references to it from the cloud
+- Structure of package so that it could potentially be downloaded and installed manually
+
 ## v1.0.0-beta.3 - 2023-05-12
 
 ### Fixed

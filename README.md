@@ -3,6 +3,14 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 # Release History
 
+## v1.0.0 - 2023-06-01
+
+### Changed
+- Centered token capture dialog
+
+### Fixed
+- Error on load when no custom cars or liveries have been created
+
 ## v1.0.0-beta.5 - 2023-05-13
 
 ### Changed

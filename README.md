@@ -3,6 +3,14 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 # Release History
 
+## v1.1.0 - 2023-06-03
+
+### Added
+- Ability to remove linked livery from event
+
+### Changed
+- Disable assign button in assign livery dialog when no livery selected
+
 ## v1.0.1 - 2023-06-02
 
 ### Changed

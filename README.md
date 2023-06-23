@@ -3,6 +3,11 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 # Release History
 
+## v1.1.3 - 2023-06-23
+
+#### Fixed
+- Issue were desktop was not taking local date into consideration when finding upcoming events.
+
 ## v1.1.2 - 2023-06-23
 
 #### Fixed

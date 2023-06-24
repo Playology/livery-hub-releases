@@ -3,11 +3,21 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 # Release History
 
+
+## v1.2.1 - 2023-06-24
+
+### Added
+- Refresh button to My Liveries
+
+### Changed
+- Ability to link multiple liveries to community
+
 ## v1.2.0 - 2023-06-24
 
 ### Added
 - Link livery to a community
 - Sync liveries linked to a community
+- Livery gallery with ability to install individual liveries
 
 ### Changed
 - Change Activate to Start on upcoming event button

@@ -3,20 +3,35 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 # Release History
 
+## v1.2.0 - 2023-06-24
+
+### Added
+- Link livery to a community
+- Sync liveries linked to a community
+
+### Changed
+- Change Activate to Start on upcoming event button
+- Hid actual urls on navigation links
+
+
+
 ## v1.1.3 - 2023-06-23
 
-#### Fixed
+### Fixed
 - Issue were desktop was not taking local date into consideration when finding upcoming events.
+
 
 ## v1.1.2 - 2023-06-23
 
-#### Fixed
+### Fixed
 - Issue where download of liveries failed if user has not uploaded a livery
+
 
 ## v1.1.1 - 2023-06-03
 
 ### Changed
 - Restricted upcoming events to next two weeks
+
 
 ## v1.1.0 - 2023-06-03
 
@@ -26,6 +41,7 @@ Livery Hub is web site and a desktop application working together to allow sim r
 ### Changed
 - Disable assign button in assign livery dialog when no livery selected
 
+
 ## v1.0.1 - 2023-06-02
 
 ### Changed
@@ -33,6 +49,7 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 ### Fixed
 - Ordering of upcoming events
+
 
 ## v1.0.0 - 2023-06-01
 
@@ -42,10 +59,12 @@ Livery Hub is web site and a desktop application working together to allow sim r
 ### Fixed
 - Error on load when no custom cars or liveries have been created
 
+
 ## v1.0.0-beta.5 - 2023-05-13
 
 ### Changed
 - About now shows semantic version rather than assembly version
+
 
 ## v1.0.0-beta.4 - 2023-05-13
 

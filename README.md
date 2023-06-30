@@ -4,6 +4,16 @@ Livery Hub is web site and a desktop application working together to allow sim r
 # Release History
 
 
+## v1.2.2 - 2023-06-30
+
+### Added
+- Car model name to My Liveries table
+
+### Changed
+- Log custom car file path as loaded
+- Improved error reporting on error loading custom car file
+- Continue loading custom cars after error
+
 ## v1.2.1 - 2023-06-24
 
 ### Added

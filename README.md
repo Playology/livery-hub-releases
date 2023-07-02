@@ -3,6 +3,13 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 # Release History
 
+## v1.2.3 - 2023-07-02
+
+### Changed
+- Increased logging during sync of liveries
+- Prevented single failure of livery download and install from stopping process
+- Notify user if not all liveries could be synced.
+
 
 ## v1.2.2 - 2023-06-30
 
@@ -15,6 +22,7 @@ Livery Hub is web site and a desktop application working together to allow sim r
 - Continue loading custom cars after error
 
 ## v1.2.1 - 2023-06-24
+
 
 ### Added
 - Refresh button to My Liveries

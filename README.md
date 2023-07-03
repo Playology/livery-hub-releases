@@ -3,6 +3,18 @@ Livery Hub is web site and a desktop application working together to allow sim r
 
 # Release History
 
+## v1.3.0 - 2023-07-03
+
+### Added
+- Paging to Livery Gallery.
+
+### Changed
+- Hide link button on livery galler tile when not url specified.
+
+### Fixed
+- Issue introduced in v1.2.2 where upload livery was looking for files with double .json extension.
+
+
 ## v1.2.3 - 2023-07-02
 
 ### Changed

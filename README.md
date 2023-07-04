@@ -4,7 +4,14 @@ Livery Hub is web site and a desktop application working together to allow sim r
 # Release History
 
 
-## v1.4.0 - 2023-07-03
+## v1.4.1 - 2023-07-04
+
+### Fixed
+- Minor irritation introduced in last update
+
+
+
+## v1.4.0 - 2023-07-04
 
 ### Added
 - Ability to delete livery from cloud (does not affect local liveries)

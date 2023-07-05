@@ -4,6 +4,12 @@ Livery Hub is web site and a desktop application working together to allow sim r
 # Release History
 
 
+## v1.4.2 - 2023-07-05
+
+### Fixed
+- Issue with spaces at start of livery folder name
+
+
 ## v1.4.1 - 2023-07-04
 
 ### Fixed

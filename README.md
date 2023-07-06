@@ -4,6 +4,12 @@ Livery Hub is web site and a desktop application working together to allow sim r
 # Release History
 
 
+## v1.5.0 - 2023-07-06
+
+### Added
+- Ability to rename a livery from My Liveries.
+
+
 ## v1.4.2 - 2023-07-05
 
 ### Fixed

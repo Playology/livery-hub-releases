@@ -4,6 +4,13 @@ Livery Hub is web site and a desktop application working together to allow sim r
 # Release History
 
 
+## v1.5.1 - 2023-07-07
+
+### Changed
+- Prevent upload of liveries with same name as an existing one uploaded by another user
+- Prevent upload of liveries that do not include the *_1.dds files that prevent lagging in online sessions
+
+
 ## v1.5.0 - 2023-07-06
 
 ### Added

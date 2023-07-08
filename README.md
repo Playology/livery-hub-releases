@@ -4,6 +4,19 @@ Livery Hub is web site and a desktop application working together to allow sim r
 # Release History
 
 
+## v1.6.0 - 2023-07-08
+
+### Added
+- Ability to view liveries linked to a community
+- Ability to view liveries assigned to an event
+- Ability for community owners or delegated owners to block a livery linked to a community
+- Ability for community owners or delegated owners to block a livery assigned to an event
+
+### Fixed
+- My Linked Liveries list showing same values on all communities
+- Some minor visual issues found during testing
+
+
 ## v1.5.2 - 2023-07-07
 
 ### Fixed

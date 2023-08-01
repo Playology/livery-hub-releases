@@ -4,6 +4,13 @@ Livery Hub is web site and a desktop application working together to allow sim r
 # Release History
 
 
+## v1.7.0 - 2023-08-01
+
+### Added
+- Ability to find and join communities directly within the app instead of going to the web site
+- Ability to leave a community via a button on the Community tile in Dashboard
+
+
 ## v1.6.1 - 2023-07-31
 
 ### Changed
